@@ -1,0 +1,17 @@
+Dog,Fido,2020-01-01,Sit, Stay, Fetch
+Cat,Whiskers,2019-05-15,Pounce
+Hamster,Hammy,2021-03-10,Roll, Hide
+Dog,Buddy,2018-12-10,Sit, Paw, Bark
+Cat,Smudge,2020-02-20,Sit, Pounce, Scratch
+Hamster,Peanut,2021-08-01,Roll, Spin
+Dog,Bella,2019-11-11,Sit, Stay, Roll
+Cat,Oliver,2020-06-30,Meow, Scratch, Jump
+Horse,Thunder,2015-07-21,Trot, Canter, Gallop
+Camel,Sandy,2016-11-03,Walk, Carry Load
+Donkey,Eeyore,2017-09-18,Walk, Carry Load, Bray
+Horse,Storm,2014-05-05,Trot, Canter
+Camel,Dune,2018-12-12,Walk, Sit
+Donkey,Burro,2019-01-23,Walk, Bray, Kick
+Horse,Blaze,2016-02-29,Trot, Jump, Gallop
+Camel,Sahara,2015-08-14,Walk, Run, команда1, команда2
+Cat,Барсик,2023-12-28,Мяукать, спать
